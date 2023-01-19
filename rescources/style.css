@@ -1,0 +1,70 @@
+body{
+    width: 100%;
+    font-size: 15px;
+    margin:0%;
+    padding: 0%;
+    background-color: grey;
+    overflow-x: hidden;
+}
+
+.navBar{
+    height: 4em;
+    background-color: darkolivegreen;
+    border-radius: 3%;
+}
+
+nav h1{
+    float: left;
+    padding-left: 1em;
+}
+
+nav ul{
+    display: inline-flex;
+    list-style: none;
+    padding-top: 0.7em;
+    float: right;
+    padding-right: 1em;
+}
+
+nav ul li{
+    padding-right: 1em;
+}
+
+.skills{
+    width: 100%;
+    margin-bottom: 3em;
+}
+.skills img{
+    height: 15em;
+    width: auto;
+    border: 1px solid black;
+    border-radius: 3%;
+}
+ .skilss-images{
+    width: 30%;
+ }
+.skills h2{
+    padding-left: 1em;
+}
+
+.skills ul{
+    display: inline-flex;
+    width: 100%;
+   text-align: center;
+}
+
+.skills li{
+    list-style: none;    
+    width: 100%;
+}
+
+.aboutMe{
+    margin-top: 1em;
+    padding-left: 1em;
+}
+
+.history{
+    padding-left: 1em;
+}
+
+   
