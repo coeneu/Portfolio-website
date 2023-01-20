@@ -1,16 +1,18 @@
 body{
     width: 100%;
     font-size: 15px;
+    font-family: 'Roboto', sans-serif;
     margin:0%;
     padding: 0%;
-    background-color: grey;
+    background-color: whitesmoke;
     overflow-x: hidden;
+    color: black;
 }
 
 .navBar{
     height: 4em;
-    background-color: darkolivegreen;
-    border-radius: 3%;
+    background-color: #383d2e;
+    border: 1px solid black;
 }
 
 nav h1{
@@ -24,6 +26,7 @@ nav ul{
     padding-top: 0.7em;
     float: right;
     padding-right: 1em;
+    font-weight: bold;
 }
 
 nav ul li{
@@ -63,8 +66,9 @@ nav ul li{
     padding-left: 1em;
 }
 
-.history{
+.contact{
     padding-left: 1em;
+    
 }
 
    
